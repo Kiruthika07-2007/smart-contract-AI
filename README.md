@@ -1,20 +1,81 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ⚖️ LexiGuard AI
 
-# Run and deploy your AI Studio app
+An AI-powered legal document automation platform that generates customized contract templates, identifies potential legal risks, and suggests mitigation strategies while ensuring compliance with applicable laws and jurisdictions.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/8074ac0b-c3a6-4983-8cef-dc81f15ab5d7
+## 🚀 Overview
 
-## Run Locally
+LexiGuard AI is designed to simplify legal documentation by automating the process of contract creation and analysis. It helps businesses, startups, and individuals generate professional agreements while reducing legal risks.
 
-**Prerequisites:**  Node.js
+---
 
+## 🎯 Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 📜 Automated Contract Generation (NDA, Employment, Vendor, etc.)
+- ⚠️ Legal Risk Identification
+- ✅ Risk Mitigation Suggestions
+- 🌍 Jurisdiction-Based Compliance (e.g., India, US, UK)
+- 🧠 AI-Powered Legal Analysis
+- 🖥️ Simple and User-Friendly Interface
+
+---
+
+## 🧩 How It Works
+
+1. User provides:
+   - Contract type  
+   - Party details  
+   - Key terms and conditions  
+   - Jurisdiction  
+   - Risk tolerance level  
+
+2. The system:
+   - Generates a structured legal contract  
+   - Analyzes potential risks  
+   - Suggests improvements and safer clauses  
+
+3. Output includes:
+   - 📄 Full Contract  
+   - ⚠️ Risk Analysis  
+   - ✅ Mitigation Recommendations  
+
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: HTML, CSS, JavaScript / React  
+- Backend: JavaScript (Simulated Logic)  
+- AI Engine: Generative AI (LLM-based)  
+
+---
+
+## 📌 Use Cases
+
+- Startups creating agreements  
+- Businesses managing vendor contracts  
+- HR teams drafting employment contracts  
+- Legal beginners needing guidance  
+
+---
+
+## 🔐 Key Benefits
+
+- Saves time and effort  
+- Reduces legal risks  
+- Improves contract quality  
+- Ensures compliance  
+
+---
+
+## 📷 Screenshots
+
+_Add your project screenshots here_
+
+---
+
+## ⚙️ Installation & Usage
+
+1. Clone the repository  
+```bash
+git clone https://github.com/your-username/lexiguard-ai.git
