@@ -69,13 +69,7 @@ LexiGuard AI is designed to simplify legal documentation by automating the proce
 ---
 
 ## 📷 Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d45be865-055d-4288-bae4-f8e4dd285a19" />
 
-_Add your project screenshots here_
 
 ---
-
-## ⚙️ Installation & Usage
-
-1. Clone the repository  
-```bash
-git clone https://github.com/your-username/lexiguard-ai.git
